@@ -1,0 +1,13 @@
+ignore-empty-password
+show-failed-attempts
+daemonize
+image=~/.config/sway/bg.png
+scaling=fill
+show-keyboard-layout
+indicator-caps-lock
+inside-color=00dd00
+inside-caps-lock-color=00dd00
+inside-ver-color=00dddd
+inside-wrong-color=dd0000
+key-hl-color=00ee10
+
